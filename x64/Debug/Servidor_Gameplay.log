@@ -1,2 +1,20 @@
-﻿  main.cpp
+﻿  GameLogic.cpp
+  Server_Gameplay.cpp
+C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: se ha utilizado una interfaz no de DLL class 'std::runtime_error' como base para la interfaz DLL class 'sf::Exception'
+  (compilando archivo de origen "Server_Gameplay.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdexcept(100,19):
+  vea la declaración de 'std::runtime_error'
+  C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+  vea la declaración de 'sf::Exception'
+  
+C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\Servidor_Gameplay\Server_Gameplay.cpp(120,97): warning C4552: "!=": el resultado de la expresión no se usa
+  main.cpp
+C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: se ha utilizado una interfaz no de DLL class 'std::runtime_error' como base para la interfaz DLL class 'sf::Exception'
+  (compilando archivo de origen "main.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdexcept(100,19):
+  vea la declaración de 'std::runtime_error'
+  C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+  vea la declaración de 'sf::Exception'
+  
+  Generando código...
   Servidor_Gameplay.vcxproj -> C:\Users\mmayo\Desktop\Shooter2dUDP\Shooter2D\x64\Debug\Servidor_Gameplay.exe
